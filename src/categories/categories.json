@@ -1,0 +1,170 @@
+{
+  "categories": [
+    {
+      "name": "Fruits & vegetables",
+      "subcategories": [
+        {
+          "name": "Fresh Vegetables",
+          "items": ["Potato , Onion & Tomato", "Cucumber & Capsicum", "Leafy Vegetables","Root Vegetables","Beans,Brinjals & Okra","Cabbage & Cauliflower","Groud,pumpkin","Speciality"]
+        },
+        {
+          "name": "Herbs & Seasoning",
+          "items": ["Item 1.2.1", "Item 1.2.2", "Item 1.2.3"]
+        },
+        {
+          "name": "Fresh Fruits",
+          "items": ["Item 1.2.2", "Item 1.2.3", "Item 1.2.4"]
+        },
+        {
+          "name": "Organic Fruits & Vegetables",
+          "items": ["Item 1.2.3", "Item 1.2.4", "Item 1.2.5"]
+        },
+        {
+          "name": "cuts & Sprouts",
+          "items": ["Item 1.2.4", "Item 1.2.5", "Item 1.2.6"]
+        },
+        {
+          "name": "Exotic Fruits & Veggies",
+          "items": ["Item 1.2.5", "Item 1.2.6", "Item 1.2.3"]
+        },
+        {
+          "name": "Flower Bouquets",
+          "items": ["Item 1.2.1", "Item 1.2.2", "Item 1.2.3"]
+        }
+
+
+      ]
+    },
+    {
+      "name": "Foodgrains,Oils & Masala",
+      "subcategories": [
+        {
+          "name": "Subcategory 3.1",
+          "items": ["Item 2.1.1", "Item 2.1.2", "Item 2.1.3"]
+        },
+        {
+          "name": "Subcategory 4.2",
+          "items": ["Item 2.2.1", "Item 2.2.2", "Item 2.2.3"]
+        }
+      ]
+    },
+    {
+      "name": "Bakery,Cakes & Dairy",
+      "subcategories": [
+        {
+          "name": "Subcategory 4.1",
+          "items": ["Item 2.1.1", "Item 2.1.2", "Item 2.1.3"]
+        },
+        {
+          "name": "Subcategory 5.2",
+          "items": ["Item 2.2.1", "Item 2.2.2", "Item 2.2.3"]
+        }
+      ]
+    },
+    {
+      "name": "Beverages",
+      "subcategories": [
+        {
+          "name": "Subcategory 6.1",
+          "items": ["Item 2.1.1", "Item 2.1.2", "Item 2.1.3"]
+        },
+        {
+          "name": "Subcategory 7.2",
+          "items": ["Item 2.2.1", "Item 2.2.2", "Item 2.2.3"]
+        }
+      ]
+    },
+    {
+      "name": "Snacks & Branded Foods",
+      "subcategories": [
+        {
+          "name": "Subcategory 8.1",
+          "items": ["Item 2.1.1", "Item 2.1.2", "Item 2.1.3"]
+        },
+        {
+          "name": "Subcategory 9.2",
+          "items": ["Item 2.2.1", "Item 2.2.2", "Item 2.2.3"]
+        }
+      ]
+    },
+    {
+      "name": "Beauty & hygiene",
+      "subcategories": [
+        {
+          "name": "Subcategory 10.1",
+          "items": ["Item 2.1.1", "Item 2.1.2", "Item 2.1.3"]
+        },
+        {
+          "name": "Subcategory 11.2",
+          "items": ["Item 2.2.1", "Item 2.2.2", "Item 2.2.3"]
+        }
+      ]
+    },
+    {
+      "name": "Cleaning & Household",
+      "subcategories": [
+        {
+          "name": "Subcategory 12.1",
+          "items": ["Item 2.1.1", "Item 2.1.2", "Item 2.1.3"]
+        },
+        {
+          "name": "Subcategory 13.2",
+          "items": ["Item 2.2.1", "Item 2.2.2", "Item 2.2.3"]
+        }
+      ]
+    },
+    {
+      "name": "Kitchen,Garden & Pets",
+      "subcategories": [
+        {
+          "name": "Subcategory 14.1",
+          "items": ["Item 2.1.1", "Item 2.1.2", "Item 2.1.3"]
+        },
+        {
+          "name": "Subcategory 15.2",
+          "items": ["Item 2.2.1", "Item 2.2.2", "Item 2.2.3"]
+        }
+      ]
+    },
+    {
+      "name": "Eggs,Meat & Fish",
+      "subcategories": [
+        {
+          "name": "Subcategory 16.1",
+          "items": ["Item 2.1.1", "Item 2.1.2", "Item 2.1.3"]
+        },
+        {
+          "name": "Subcategory 17.2",
+          "items": ["Item 2.2.1", "Item 2.2.2", "Item 2.2.3"]
+        }
+      ]
+    },
+    {
+      "name": "Gourmet & World Food",
+      "subcategories": [
+        {
+          "name": "Subcategory 18.1",
+          "items": ["Item 2.1.1", "Item 2.1.2", "Item 2.1.3"]
+        },
+        {
+          "name": "Subcategory 19.2",
+          "items": ["Item 2.2.1", "Item 2.2.2", "Item 2.2.3"]
+        }
+      ]
+    },
+    {
+      "name": "Baby Care",
+      "subcategories": [
+        {
+          "name": "Subcategory 20.1",
+          "items": ["Item 2.1.1", "Item 2.1.2", "Item 2.1.3"]
+        },
+        {
+          "name": "Subcategory 21.2",
+          "items": ["Item 2.2.1", "Item 2.2.2", "Item 2.2.3"]
+        }
+      ]
+    }
+    
+  ]
+}
